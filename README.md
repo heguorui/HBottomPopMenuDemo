@@ -1,5 +1,8 @@
 > **简书**博客，欢迎光临：[简书个人博客主页](http://www.jianshu.com/users/ba85118e2023/latest_articles)
 
+* 本文简书链接：
+[Android：仿制iOS底部弹出菜单](http://www.jianshu.com/p/f5a73867a8c7)
+
 # HBottomPopMenuDemo
 仿制iOS的底部弹出菜单
 
