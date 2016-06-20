@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/bottom_menu_btn_bg_press_color" />
+    <corners android:topLeftRadius="@dimen/bottom_menu_corner"
+        android:topRightRadius="@dimen/bottom_menu_corner"
+        android:bottomRightRadius="0dp"
+        android:bottomLeftRadius="0dp"/>
+</shape>

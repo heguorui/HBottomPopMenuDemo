@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    android:orientation="vertical"
+    android:background="#00000000"
+    tools:context="org.guoruihe.hbottompopmenudemo.bottompopfragmentmenu.BottomMenuFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/bottom_menu_layout_margin"
+        android:background="@color/bottom_menu_layout_color" >
+        <ListView
+            android:id="@+id/lv_menu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </ListView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/bottom_menu_layout_margin"
+        android:background="@color/bottom_menu_layout_color" >
+        <TextView
+            android:id="@+id/tv_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/bottom_menu_btn_height"
+            android:layout_margin="@dimen/bottom_menu_btn_margin"
+            android:gravity="center"
+            android:text="取消"
+            android:textColor="@color/bottom_menu_btn_text_commom_color"
+            android:textSize="@dimen/bottom_menu_btn_text_size"
+            tools:text="取消"
+            android:background="@drawable/bottom_menu_btn_selector">
+
+        </TextView>
+    </LinearLayout>
+
+
+</LinearLayout>

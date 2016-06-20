@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bottom_menu_btn_bg_common_color">#FFFFFF</color>
+    <color name="bottom_menu_btn_bg_press_color">#EEEEEE</color>
+    <color name="bottom_menu_btn_text_commom_color">#5B729A</color>
+    <color name="bottom_menu_btn_text_press_colot">#3F51B5</color>
+    <color name="bottom_menu_btn_text_stress_color">#FF0000</color>
+    <color name="bottom_menu_layout_color">#00000000</color>
+</resources>
